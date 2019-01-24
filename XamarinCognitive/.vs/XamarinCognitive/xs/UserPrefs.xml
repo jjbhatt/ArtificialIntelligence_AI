@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{34B7825E-313C-4A58-9BEB-9569268F2555}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamarinCognitive.iOS/Info.plist">
+    <Files>
+      <File FileName="XamarinCognitive/MainPage.xaml.cs" Line="11" Column="21" />
+      <File FileName="XamarinCognitive/MainPage.xaml" Line="10" Column="70" />
+      <File FileName="XamarinCognitive.iOS/Info.plist" />
+      <File FileName="XamarinCognitive/ResponseModel.cs" Line="93" Column="47" />
+      <File FileName="XamarinCognitive.iOS/Main.cs" Line="11" Column="6" />
+      <File FileName="XamarinCognitive.iOS/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="XamarinCognitive/App.xaml" Line="5" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.XamarinCognitive.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/admin/Projects/XamarinCognitive/XamarinCognitive/MainPage.xaml.cs" relfile="XamarinCognitive/MainPage.xaml.cs" line="55" column="1" />
+      <Breakpoint file="/Users/admin/Projects/XamarinCognitive/XamarinCognitive/MainPage.xaml.cs" relfile="XamarinCognitive/MainPage.xaml.cs" line="28" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

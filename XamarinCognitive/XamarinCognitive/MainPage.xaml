@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:XamarinCognitive" x:Class="XamarinCognitive.MainPage">
+    <StackLayout>
+         <StackLayout>        
+        <StackLayout HorizontalOptions="Center" VerticalOptions="Start">        
+         <Image x:Name="imgBanner" Source="banner.png" ></Image>        
+         <Image Margin="0,0,0,10" x:Name="imgEmail" HeightRequest="100" Source="cognitiveservice.png" ></Image>        
+         <Label Margin="0,0,0,10" Text="Emotion Recognition" FontAttributes="Bold" FontSize="Large" TextColor="Gray" HorizontalTextAlignment="Center" ></Label>       
+         <Image Margin="0,0,0,10" x:Name="imgSelected" HeightRequest="150" Source="defaultimage.png" ></Image>        
+         <Button x:Name="btnPick" Text="Pick" Clicked="Handle_Clicked" />        
+         <StackLayout HorizontalOptions="CenterAndExpand" Margin="10,0,0,10">  
+            <Label x:Name="lblHappiness" ></Label>         
+            <Label x:Name="lblAnger"></Label>         
+            <Label x:Name="lblFear"></Label>   
+            <Label x:Name="lblNeutral"></Label>   
+            <Label x:Name="lblSadness"></Label>   
+            <Label x:Name="lblSurprise"></Label>   
+            <Label x:Name="lblDisgust"></Label>   
+            <Label x:Name="lblContempt"></Label>
+            <Label x:Name="lblAge"></Label>  
+            <Label x:Name="lblGender"></Label>  
+            <Label x:Name="lblTotalFace"></Label> 
+        </StackLayout>  
+        </StackLayout> 
+            </StackLayout>
+       </StackLayout>
+</ContentPage>
